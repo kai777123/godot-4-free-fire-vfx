@@ -11,3 +11,6 @@
 /.gitignore export-ignore
 *.gif binary
 *.png binary
+/CREDITS.txt export-ignore
+/LICENSE export-ignore
+/README.md export-ignore
